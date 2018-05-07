@@ -2,3 +2,5 @@ this is a vactaion list
 sunscreen
 bag
 clothes
+money
+mediicnes
