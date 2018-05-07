@@ -4,3 +4,4 @@ bag
 clothes
 money
 mediicnes
+fir aid kit
