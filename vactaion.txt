@@ -5,7 +5,3 @@ clothes
 money
 mediicnes
 fir aid kit
-dslr camera
-lenses
-tripod
-batteries
